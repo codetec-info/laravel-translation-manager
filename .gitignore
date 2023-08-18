@@ -8,3 +8,6 @@ config.codekit
 node_modules/
 *.map
 /public/mix-manifest.json
+.idea
+.idea/*
+.idea/workspace.xml

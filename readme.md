@@ -12,7 +12,7 @@ additional repository interface implementations following the examples of
 
 **Detailed information is now in the [wiki].**
 
-#### Support Laravel 8:
+#### Support Laravel 10:
 
 #### Add to composer:
 
@@ -21,7 +21,7 @@ additional repository interface implementations following the examples of
 ```bash
   "require": {
     ..
-    "vsch/laravel-translation-manager": "dev-laravel-8"
+    "vsch/laravel-translation-manager": "v10.2"
   },
   "repositories": [
     {
